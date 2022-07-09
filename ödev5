@@ -1,0 +1,2 @@
+select COUNT(city) from city
+where city like '%r' or city like '%R';
