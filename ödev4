@@ -1,0 +1,2 @@
+select COUNT(country) from country
+where country like '_____';
